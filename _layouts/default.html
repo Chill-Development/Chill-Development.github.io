@@ -12,30 +12,198 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 </head>
-<body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+<body data-smooth-scroll-offset="73">
+    <div class="navbar-container ">
+        <nav class="navbar navbar-expand-lg navbar-light" data-sticky="top">
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                        <img src="~/branding/logos/logo.svg" class="companylogo" height="60" alt="Chill Development">
 
-    <header class="page-header" role="banner">
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        {% endif %}
-        {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-        {% endif %}
-    </header>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <img class="icon navbar-toggler-open" src="~/assets/img/icons/interface/menu.svg" alt="menu interface icon" data-inject-svg />
+                        <img class="icon navbar-toggler-close" src="~/assets/img/icons/interface/cross.svg" alt="cross interface icon" data-inject-svg />
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end">
+                        <div class="py-2 py-lg-0">
+                            <ul class="navbar-nav">
 
-    <main id="content" class="main-content" role="main">
+                                <li class="nav-item dropdown">
+                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown-grid" aria-expanded="false" aria-haspopup="true">Portfolio</a>
+                                    <div class="dropdown-menu bg-primary-3 text-light border-bottom">
+                                        <div class="container py-4" data-dropdown-content>
+                                            <div class="row">
+                                                <div class="col-lg col-md mb-3 mb-lg-0">
+                                                    <h5>Popular Works</h5>
+
+                                                    <div class="row">
+                                                        <!--@foreach (var portfolio in _context.Portfolio.Include(p => p.Portfolio_Categories).Where(p => p.isEnabled == true).ToList())
+                                                        {-->
+                                                        <!--<div class="col-md-4 mt-2">
+                                                            <a href="/portfolio/@_context.Portfolio_Categories.Where(p => p == portfolio.Portfolio_Categories).FirstOrDefault().Name.Replace(" ", " -").ToLower() /@portfolio.Title">
+                                                                <div class="card card-sm card-body flex-row align-items-center">
+                                                                    <img src="@if (portfolio.Icon_65 == null) { @Html.Raw(" https: //via.placeholder.com/65x65") } else { @Html.Raw("data: image /jpeg;base64, " + @Convert.ToBase64String(portfolio.Icon_65))} " height="65" class="rounded" />
+                                                                    <div class="ml-3">
+                                                                        <h6 class="mb-0 text-primary-3">@portfolio.Title</h6>
+                                                                        <span class="text-info"><small>@portfolio.Subtitle</small></span>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>-->
+                                                        <!--}-->
+
+
+
+                                                        <div class="col-md-12 mt-3">
+                                                            <a href="~/portfolio/">View our full portfolio <i class="fancybox-button--arrow_right"></i></a>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="~/about-us">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="~/contact-us">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div><a href="~/portal/" class="btn btn-primary-3 ml-lg-3">Client Portal</a>
+
+                    </div>
+            </div>
+        </nav>
+    </div>
+
+    <section class="p-0">
+
         {{ content }}
 
-        <footer class="site-footer">
-            {% if site.github.is_project_page %}
-            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-            {% endif %}
-            <span class="site-footer-credits">This page was generated by Chris Hill <a href="https://pages.github.com">GitHub Pages</a>.</span>
-        </footer>
-    </main>
+    </section>
+
+    <footer class="pb-4 bg-primary-3 text-light" id="footer">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col">
+                    <div class="card card-body border-0 o-hidden mb-0 bg-primary text-light">
+                        <div class="position-relative d-flex flex-column flex-md-row justify-content-between align-items-center">
+                            <div class="h3 text-center mb-md-0">Let's start building your next website.</div>
+                            <a href="/contact-us" class="btn btn-lg btn-white">
+                                Contact Us
+                            </a>
+                        </div>
+                        <div class="decoration layer-0">
+                            <img class="bg-primary-2" src="~/assets/img/decorations/deco-blob-5.svg" alt="deco-blob-2 decoration" data-inject-svg />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="row mb-5">
+                <div class="col-6 col-lg">
+                    <img src="~/branding/logos/Icon and Logo Dark 2.svg" class="max-auto" height="225" />
+                </div>
+                <div class="col-6 col-lg">
+                    <h5>Contact</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-3 d-flex">
+                            <img class="icon" src="~/assets/img/icons/theme/map/marker-1.svg" alt="marker-1 icon" data-inject-svg />
+                            <div class="ml-3">
+                                <span>
+                                    5 Lulworth Road
+                                    <br />Manchester, UK
+                                </span>
+                            </div>
+                        </li>
+                        <li class="mb-3 d-flex">
+                            <img class="icon" src="/dist/assets/img/icons/theme/communication/mail.svg" alt="mail icon" data-inject-svg />
+                            <div class="ml-3">
+                                <a href="mailto:info@chilldevelopment.co.uk">info@chilldevelopment.co.uk</a>
+                            </div>
+                        </li>
+                        <li class="mb-3 d-flex">
+                            <img class="icon" src="~/assets/img/icons/theme/general/user.svg" alt="career icon" data-inject-svg />
+                            <div class="ml-3">
+                                <a href="~/careers/">Careers at Chill Development</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg col-xl-4 mt-3 mt-lg-0">
+                    <h5>Subscribe</h5>
+                    <p>The latest news, articles, and resources, sent straight to your inbox.</p>
+                    <form action="/forms/mailchimp.php" data-form-email novalidate>
+                        <div class="form-row">
+                            <div class="col-12">
+                                <input type="email" class="form-control mb-2" placeholder="Email Address" name="email" required>
+                            </div>
+                            <div class="col-12">
+                                <div class="d-none alert alert-success" role="alert" data-success-message>
+                                    Thanks, a member of our team will be in touch shortly.
+                                </div>
+                                <div class="d-none alert alert-danger" role="alert" data-error-message>
+                                    Please fill all fields correctly.
+                                </div>
+                                <div data-recaptcha data-sitekey="INSERT_YOUR_RECAPTCHA_V2_SITEKEY_HERE" data-size="invisible" data-badge="bottomleft">
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-loading btn-block" data-loading-text="Sending">
+                                    <img class="icon" src="~/assets/img/icons/theme/code/loading.svg" alt="loading icon" data-inject-svg />
+                                    <span>Subscribe</span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    <small class="text-muted form-text">
+                        We’ll never share your details. See our <a href="~/legal/privacy-policy">Privacy Policy</a>
+                    </small>
+
+                </div>
+            </div>
+            <div class="row justify-content-center mb-2">
+                <div class="col-auto">
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a href="https://www.facebook.com/chilldevelopment" target="_blank" class="nav-link">
+                                <img class="icon undefined" src="~/assets/img/icons/social/facebook.svg" alt="facebook social icon" data-inject-svg />
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="https://twitter.com/chilldevelop" target="_blank" class="nav-link">
+                                <img class="icon undefined" src="~/assets/img/icons/social/twitter.svg" alt="twitter social icon" data-inject-svg />
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="https://github.com/Chill-Development" target="_blank" class="nav-link">
+                                <img class="icon undefined" src="~/assets/img/icons/social/github.svg" alt="github social icon" data-inject-svg />
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="https://www.linkedin.com/company/25071161" target="_blank" class="nav-link">
+                                <img class="icon undefined" src="~/assets/img/icons/social/linkedin.svg" alt="linkedin social icon" data-inject-svg />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col col-md-auto text-center">
+                    <small class="text-muted">
+                        &copy; 2021 <span class="text-light">Chill</span> <span style="color: #f1d844">Development</span>. This website is subject to the <span class="text-light">Chill</span> <span style="color: #f1d844">Development</span> <a href="~/legal/privacy-policy">Privacy Policy</a> and <a href="~/legal/terms-of-use">Terms of Use.</a>
+                    </small>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <a href="#" class="btn back-to-top btn-primary btn-round" data-smooth-scroll data-aos="fade-up" data-aos-offset="2000" data-aos-mirror="true" data-aos-once="false">
+        <img class="icon" src="~/assets/img/icons/theme/navigation/arrow-up.svg" alt="arrow-up icon" data-inject-svg />
+    </a>
+    {% include footer-custom.html %}
+
 </body>
 </html>
