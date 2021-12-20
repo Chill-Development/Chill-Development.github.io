@@ -15,7 +15,7 @@ layout: default
             <div class="col-lg-6">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-8 mt-4 mt-lg-0">
-                        <img src="/assets/img/mobile-app-1.jpg" alt="Image" data-aos="fade-left" class="aos-init aos-animate">
+                        <img src="/assets/img/mobile-app-1.jpg" alt="Image" data-aos="fase-left" class="aos-init aos-animate">
                     </div>
                 </div>
             </div>
@@ -32,19 +32,19 @@ layout: default
         <div class="row">
             <div class="col">
                 <ul class="d-flex flex-wrap justify-content-center list-unstyled">
-                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                         <img src="/assets/img/logos/morsonprojects.svg" class="mt-2" height="60" />
                     </li>
-                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                         <img src="/assets/img/logos/splice.svg" height="60" class="mt-2" />
                     </li>
-                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                         <img src="/assets/branding/portfolio/butterflies-and-fairytales/logo-grey.svg" height="100" />
                     </li>
-                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                         <img src="/assets/branding/portfolio/simply-skin/logo-grey.svg" height="100" />
                     </li>
-                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                         <img src="/assets/branding/portfolio/the-style-loft/logo-grey.svg" height="100" />
                     </li>
                 </ul>
@@ -80,7 +80,7 @@ layout: default
         <div class="row o-hidden o-lg-visible">
             <div class="col d-flex flex-column align-items-center">
                 <ol class="process-vertical">
-                    <li data-aos="fade-right" class="aos-init aos-animate">
+                    <li data-aos="fase-right" class="aos-init aos-animate">
                         <div class="process-circle bg-primary"></div>
                         <div>
                             <h5 class="mb-0 text-warning">
@@ -92,7 +92,7 @@ layout: default
                             </span>
                         </div>
                     </li>
-                    <li data-aos="fade-left" class="aos-init">
+                    <li data-aos="fase-left" class="aos-init">
                         <div class="process-circle bg-primary"></div>
                         <div>
                             <h5 class="mb-0 text-warning">Customer Portal Access. GitHub Access.</h5>
@@ -103,7 +103,7 @@ layout: default
                             </span>
                         </div>
                     </li>
-                    <li data-aos="fade-right" class="aos-init">
+                    <li data-aos="fase-right" class="aos-init">
                         <div class="process-circle bg-primary"></div>
                         <div>
                             <h5 class="mb-0 text-warning">
@@ -114,7 +114,7 @@ layout: default
                             </span>
                         </div>
                     </li>
-                    <li data-aos="fade-left" class="aos-init">
+                    <li data-aos="fase-left" class="aos-init">
                         <div class="process-circle bg-primary"></div>
                         <div>
                             <h5 class="mb-0 text-warning">Testing, Implementation and Handover.</h5>
@@ -143,19 +143,19 @@ layout: default
             </div>
         </div>
         <div class="row text-center">
-            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                 <img src="/assets/img/saas-sketch-2.svg" alt="Image" class="mb-5">
                 <h5>Two-Factor Authentication</h5>
                 <p class="px-xl-4">Tougher security as standard. Protecting your data straight away.</p>
                 <a href="#" class="hover-arrow">Learn More</a>
             </div>
-            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fase-up" data-aos-delay="200">
                 <img src="/assets/img/saas-sketch-3.svg" alt="Image" class="mb-4">
                 <h5>Documentation</h5>
                 <p class="px-xl-4">We can provide Development Documentation, supporting Audit requirements such as ISO27001.</p>
                 <a href="#" class="hover-arrow">Learn More</a>
             </div>
-            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fase-up" data-aos-delay="400">
                 <img src="/assets/img/saas-sketch-5.svg" alt="Image" class="mb-4">
                 <h5>Product Roadmap</h5>
                 <p class="px-xl-4">We aim to have long-term relationships with our clients, and see through the lifetime of the product.</p>
@@ -169,7 +169,7 @@ layout: default
 <section class="has-divider bg-primary-alt">
     <div class="container">
         <div class="row justify-content-around align-items-center">
-            <div class="col-xl-3 col-lg-4 col-md-3 d-flex mb-5 mb-md-0 aos-init aos-animate" data-aos="fade-right">
+            <div class="col-xl-3 col-lg-4 col-md-3 d-flex mb-5 mb-md-0 aos-init aos-animate" data-aos="fase-right">
                 <div class="row justify-content-center">
                     <div class="col-8 col-md">
                         <div class="mobile-screenshot rotate-left layer-2">

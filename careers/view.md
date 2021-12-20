@@ -39,17 +39,17 @@ layout: default
                 <div class="image-collage">
                     <a href="/assets/img/article-3.jpg" data-fancybox="Collage Gallery" class="d-none d-lg-block">
                         <div data-jarallax-element="0 12">
-                            <img src="/assets/img/article-3.jpg" alt="Image" class="rounded" data-aos="fade-right">
+                            <img src="/assets/img/article-3.jpg" alt="Image" class="rounded" data-aos="fase-right">
                         </div>
                     </a>
                     <a href="/assets/img/inner-3.jpg" data-fancybox="Collage Gallery">
                         <div>
-                            <img src="/assets/img/inner-3.jpg" alt="Image" class="rounded" data-aos="fade-up">
+                            <img src="/assets/img/inner-3.jpg" alt="Image" class="rounded" data-aos="fase-up">
                         </div>
                     </a>
                     <a href="/assets/img/inner-4.jpg" data-fancybox="Collage Gallery" class="d-none d-lg-block">
                         <div data-jarallax-element="0 -12">
-                            <img src="/assets/img/inner-4.jpg" alt="Image" class="rounded" data-aos="fade-left">
+                            <img src="/assets/img/inner-4.jpg" alt="Image" class="rounded" data-aos="fase-left">
                         </div>
                     </a>
                 </div>
@@ -74,13 +74,13 @@ layout: default
 </section>
 <section class="has-divider">
     <div class="container">
-        <div class="row mb-4" data-aos="fade-up">
+        <div class="row mb-4" data-aos="fase-up">
             <div class="col">
                 <h2>Why work with us?</h2>
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-md d-flex mb-3 mb-md-0" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-12 col-md d-flex mb-3 mb-md-0" data-aos="fase-up" data-aos-delay="100">
                 <img class="icon icon-md bg-primary" src="/assets/img/icons/theme/shopping/pound.svg" alt="patch icon" data-inject-svg />
                 <div class="ml-3">
                     <h5>Bonus Scheme</h5>
@@ -89,7 +89,7 @@ layout: default
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-md d-flex mb-3 mb-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-12 col-md d-flex mb-3 mb-md-0" data-aos="fase-up" data-aos-delay="200">
                 <img class="icon icon-md bg-primary" src="/assets/img/icons/theme/food/miso-soup.svg" alt="miso-soup icon" data-inject-svg />
                 <div class="ml-3">
                     <h5>Catered Meals</h5>
@@ -98,7 +98,7 @@ layout: default
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-md d-flex mb-3 mb-md-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="col-12 col-md d-flex mb-3 mb-md-0" data-aos="fase-up" data-aos-delay="300">
                 <img class="icon icon-md bg-primary" src="/assets/img/icons/theme/home/door-open.svg" alt="door-open icon" data-inject-svg />
                 <div class="ml-3">
                     <h5>Flexible Environment</h5>

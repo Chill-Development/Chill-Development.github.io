@@ -15,7 +15,7 @@ layout: default
                     </nav>
                 </div>
             </div>
-            <div class="row my-4 my-md-6 aos-init aos-animate" data-aos="fade-up">
+            <div class="row my-4 my-md-6 aos-init aos-animate" data-aos="fase-up">
                 <div class="col-lg-9 col-xl-8">
                     <h1 class="display-4">About Us</h1>
                     <p class="lead mb-0">Founded in 2017 - based in Eccles, Manchester.</p>
@@ -45,15 +45,15 @@ layout: default
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fase-up" data-aos-delay="100">
                     <span class="display-4 text-primary d-block" data-countup="" data-start="4567" data-end="4659461" data-duration="3" data-grouping="true">4,659,461+ </span>
                     <span class="h6">Lines of Code to Date</span>
                 </div>
-                <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fase-up" data-aos-delay="200">
                     <span class="display-4 text-primary d-block" data-countup="" data-start="1" data-end="83" data-duration="3" data-grouping="true">83</span>
                     <span class="h6">Projects Completed to Date</span>
                 </div>
-                <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fase-up" data-aos-delay="200">
                     <span class="display-4 text-primary d-block" data-countup="" data-start="1" data-prefix="£" data-suffix=" +" data-end="1000000" data-duration="3" data-grouping="true">£1,000,000</span>
                     <span class="h6">Saved to Date</span>
                 </div>
@@ -61,7 +61,7 @@ layout: default
         </div>
     </section>
     <section>
-        <div class="container aos-init aos-animate" data-aos="fade-up">
+        <div class="container aos-init aos-animate" data-aos="fase-up">
             <div class="row align-items-center justify-content-around">
                 <div class="col-md-5 col-xl-6 mb-4 mb-md-0">
                     <img src="/assets/img/inner-5.jpg" alt="Image" class="rounded shadow-3d">
@@ -83,13 +83,13 @@ layout: default
     </section>
     <section class="p-0">
         <div class="container py-6">
-            <div class="row mb-4 aos-init aos-animate" data-aos="fade-up">
+            <div class="row mb-4 aos-init aos-animate" data-aos="fase-up">
                 <div class="col">
                     <h2>Leadership Team</h2>
                 </div>
             </div>
             <div class="row mb-3">
-                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="NaN">
+                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fase-up" data-aos-delay="NaN">
                     <div class="card card-lg card-body align-items-center">
                         <span class="badge badge-primary badge-top">Founder</span>
                         <img src="/assets/branding/people/chris.png" alt="Chris Hill" class="avatar avatar-xlg mb-3">
@@ -97,7 +97,7 @@ layout: default
                         <span class="text-center">Managing Director &amp; Lead Software Engineer</span>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="NaN">
+                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fase-up" data-aos-delay="NaN">
                     <div class="card card-lg card-body align-items-center">
                         <span class="badge badge-primary badge-top">Founder</span>
                         <img src="/assets/branding/people/victoria.jpeg" alt="Victoria Hill" class="avatar avatar-xlg mb-3">
@@ -106,27 +106,27 @@ layout: default
                     </div>
                 </div>
             </div>
-            <div class="row mb-4 aos-init aos-animate" data-aos="fade-up">
+            <div class="row mb-4 aos-init aos-animate" data-aos="fase-up">
                 <div class="col">
                     <h2>Remote Team</h2>
                 </div>
             </div>
             <div class="row mb-3">
-                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                     <div class="card card-lg card-body align-items-center">
                         <img src="/assets/img/avatars/male-1.jpg" alt="Wojciech Reszelewski" class="avatar avatar-xlg mb-3">
                         <h5 class="mb-0">Wojciech Reszelewski</h5>
                         <span>Freelance Software Engineer</span>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                     <div class="card card-lg card-body align-items-center">
                         <img src="/assets/img/avatars/female-1.jpg" alt="Karolina Pawlikowska" class="avatar avatar-xlg mb-3">
                         <h5 class="mb-0">Karolina Pawlikowska</h5>
                         <span>Freelance Software Engineer</span>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-xl-3 col-lg-4 col-md-6 aos-init aos-animate" data-aos="fase-up" data-aos-delay="100">
                     <div class="card card-lg card-body align-items-center">
                         <img src="/assets/img/avatars/male-2.jpg" alt="Umran Lowens-Morris" class="avatar avatar-xlg mb-3">
                         <h5 class="mb-0 ml-0">Umran Lowens-Morris</h5>
