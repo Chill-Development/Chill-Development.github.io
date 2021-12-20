@@ -10,12 +10,12 @@ layout: default
                 <p class="lead">
                     We understand all manner of development challenges.
                 </p>
-                <a href="~/portfolio/" class="btn btn-primary btn-lg mt-3">View our Portfolio</a>
+                <a href="/portfolio/" class="btn btn-primary btn-lg mt-3">View our Portfolio</a>
             </div>
             <div class="col-lg-6">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-8 mt-4 mt-lg-0">
-                        <img src="~/assets/img/mobile-app-1.jpg" alt="Image" data-aos="fade-left" class="aos-init aos-animate">
+                        <img src="/assets/img/mobile-app-1.jpg" alt="Image" data-aos="fade-left" class="aos-init aos-animate">
                     </div>
                 </div>
             </div>
@@ -33,19 +33,19 @@ layout: default
             <div class="col">
                 <ul class="d-flex flex-wrap justify-content-center list-unstyled">
                     <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="~/assets/img/logos/morsonprojects.svg" class="mt-2" height="60" />
+                        <img src="/assets/img/logos/morsonprojects.svg" class="mt-2" height="60" />
                     </li>
                     <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="~/assets/img/logos/splice.svg" height="60" class="mt-2" />
+                        <img src="/assets/img/logos/splice.svg" height="60" class="mt-2" />
                     </li>
                     <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="~/assets/branding/portfolio/butterflies-and-fairytales/logo-grey.svg" height="100" />
+                        <img src="/assets/branding/portfolio/butterflies-and-fairytales/logo-grey.svg" height="100" />
                     </li>
                     <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="~/assets/branding/portfolio/simply-skin/logo-grey.svg" height="100" />
+                        <img src="/assets/branding/portfolio/simply-skin/logo-grey.svg" height="100" />
                     </li>
                     <li class="mx-4 mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="~/assets/branding/portfolio/the-style-loft/logo-grey.svg" height="100" />
+                        <img src="/assets/branding/portfolio/the-style-loft/logo-grey.svg" height="100" />
                     </li>
                 </ul>
             </div>
@@ -62,7 +62,7 @@ layout: default
         </div>
         <div class="row">
             <div class="col-md-12 mt-3">
-                <a href="~/portfolio/" class="text-light hover-arrow">View our full portfolio</a>
+                <a href="/portfolio/" class="text-light hover-arrow">View our full portfolio</a>
             </div>
         </div>
     </div>
@@ -144,19 +144,19 @@ layout: default
         </div>
         <div class="row text-center">
             <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                <img src="~/assets/img/saas-sketch-2.svg" alt="Image" class="mb-5">
+                <img src="/assets/img/saas-sketch-2.svg" alt="Image" class="mb-5">
                 <h5>Two-Factor Authentication</h5>
                 <p class="px-xl-4">Tougher security as standard. Protecting your data straight away.</p>
                 <a href="#" class="hover-arrow">Learn More</a>
             </div>
             <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                <img src="~/assets/img/saas-sketch-3.svg" alt="Image" class="mb-4">
+                <img src="/assets/img/saas-sketch-3.svg" alt="Image" class="mb-4">
                 <h5>Documentation</h5>
                 <p class="px-xl-4">We can provide Development Documentation, supporting Audit requirements such as ISO27001.</p>
                 <a href="#" class="hover-arrow">Learn More</a>
             </div>
             <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
-                <img src="~/assets/img/saas-sketch-5.svg" alt="Image" class="mb-4">
+                <img src="/assets/img/saas-sketch-5.svg" alt="Image" class="mb-4">
                 <h5>Product Roadmap</h5>
                 <p class="px-xl-4">We aim to have long-term relationships with our clients, and see through the lifetime of the product.</p>
                 <a href="#" class="hover-arrow">Learn More</a>
@@ -173,18 +173,18 @@ layout: default
                 <div class="row justify-content-center">
                     <div class="col-8 col-md">
                         <div class="mobile-screenshot rotate-left layer-2">
-                            <img src="~/assets/img/food-app-1.png" alt="Screenshot">
-                            <img src="~/assets/img/iphone-xr.svg" alt="iPhone XR">
+                            <img src="/assets/img/food-app-1.png" alt="Screenshot">
+                            <img src="/assets/img/iphone-xr.svg" alt="iPhone XR">
                         </div>
                         <div class="decoration-wrapper d-none d-md-block">
                             <div class="decoration middle-y scale-2" data-jarallax-element="40" style="z-index: 0; transform: translate3d(0px, 4.32124px, 0px);">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="122" height="159" viewBox="0 0 122 159" fill="none" class="injected-svg bg-primary-2" data-src="~/assets/img/decorations/deco-blob-8.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="122" height="159" viewBox="0 0 122 159" fill="none" class="injected-svg bg-primary-2" data-src="/assets/img/decorations/deco-blob-8.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                     <path d="M43.3108 158.858C40.6218 158.483 36.6428 158.086 32.7288 157.341C28.0118 156.445 23.4148 155.108 19.0668 152.959C13.3088 150.112 8.31079 146.303 4.40679 141.229C1.07479 136.896 -0.380207 131.883 0.168793 126.365C0.270793 125.334 0.340783 124.288 0.285783 123.256C-0.0442177 116.983 0.760791 110.818 1.89479 104.67C2.70679 100.272 3.49979 95.862 4.07279 91.428C4.44979 88.507 4.4598 85.534 4.5568 82.582C4.6658 79.229 4.61579 75.872 4.77379 72.522C4.90479 69.731 5.29379 66.952 5.46479 64.162C5.76579 59.223 6.00778 54.28 6.23578 49.337C6.36878 46.465 6.29779 43.579 6.54479 40.719C7.07379 34.544 9.1428 28.896 12.6698 23.781C14.2108 21.548 15.6228 19.227 17.1598 16.992C18.8648 14.51 21.0678 12.511 23.7648 11.197C30.0168 8.15502 36.1088 4.77203 42.6608 2.36703C44.1038 1.83703 45.5008 1.46702 47.0728 1.48202C48.7348 1.50002 50.4318 1.28303 52.0588 0.923029C55.2108 0.226028 58.0978 1.07101 60.9238 2.23501C68.2928 5.27001 74.5858 9.82801 79.8258 15.839C80.9798 17.163 82.2148 18.418 83.3938 19.721C86.5828 23.239 89.0248 27.236 91.2488 31.423C96.8208 41.91 99.6038 53.347 102.804 64.644C105.115 72.806 107.562 80.9 111.333 88.547C114.78 95.535 117.247 102.858 118.53 110.582C118.96 113.166 120.063 115.631 120.661 118.195C121.202 120.518 121.557 122.894 121.825 125.265C121.938 126.265 121.669 127.325 121.479 128.339C120.834 131.806 118.846 134.257 115.741 135.874C110.286 138.716 104.977 141.846 99.1958 144.04C97.4068 144.719 95.6798 145.578 93.9658 146.436C89.2058 148.816 84.1218 150.163 78.9738 151.382C75.4778 152.21 72.0718 153.404 68.5888 154.305C63.9498 155.505 59.3098 156.744 54.6098 157.651C51.3318 158.284 47.9488 158.387 43.3108 158.858Z" fill="black"></path>
                                 </svg>
                                 <div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; z-index: -100;"><div style="position: absolute;"></div></div>
                             </div>
                             <div class="decoration left top scale-2">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="114" height="64" viewBox="0 0 114 64" fill="none" class="injected-svg bg-primary" data-src="~/assets/img/decorations/deco-dots-6.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="114" height="64" viewBox="0 0 114 64" fill="none" class="injected-svg bg-primary" data-src="/assets/img/decorations/deco-dots-6.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                     <path d="M73.32 8.86801C73.459 7.62901 72.664 7.25601 71.906 6.76901C70.867 6.10101 70.59 5.277 71.031 4.345C71.222 3.945 71.58 3.52399 71.969 3.33499C73.746 2.47299 76.209 3.20301 77.276 4.85901C77.698 5.51701 77.764 6.25802 77.266 6.87702C76.352 8.01402 75.258 8.90001 73.32 8.86801Z" fill="black"></path>
                                     <path d="M33.5251 51.6231C32.8901 51.3521 32.2261 51.1311 31.6251 50.7981C30.5961 50.2291 29.8591 49.4331 29.9791 48.1321C30.0831 46.9981 31.0281 46.0351 32.3131 45.7621C32.5471 45.7121 32.7801 45.6531 33.0181 45.6251C34.1571 45.4901 34.8851 45.9071 35.2481 46.9691C35.5371 47.8111 35.6291 48.6821 35.3671 49.5591C35.1191 50.3861 34.8261 50.7141 33.5251 51.6231Z" fill="black"></path>
                                     <path d="M3.47102 38.293C3.28302 38.205 2.79302 38.133 2.59002 37.854C1.75002 36.698 0.916028 35.502 0.709028 34.047C0.582028 33.168 1.12103 32.389 1.85003 32.159C2.72303 31.885 3.61003 31.74 4.24803 32.605C4.86303 33.436 5.44502 34.295 5.98002 35.179C6.42302 35.909 6.49802 36.75 5.98002 37.446C5.43202 38.186 4.63102 38.556 3.47102 38.293Z" fill="black"></path>
@@ -217,7 +217,7 @@ layout: default
                 </div>
                 <div class="row">
                     <div class="col-6">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="injected-svg icon icon-md bg-primary" data-src="~/assets/img/icons/theme/devices/apple-watch.svg">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="injected-svg icon icon-md bg-primary" data-src="/assets/img/icons/theme/devices/apple-watch.svg">
                             <title>Icon For Apple-Watch</title>
                             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                                 <rect opacity="0" x="0" y="0" width="24" height="24"></rect>
@@ -233,7 +233,7 @@ layout: default
                         </p>
                     </div>
                     <div class="col-6">
-                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="injected-svg icon icon-md bg-primary" data-src="~/assets/img/icons/theme/devices/airpods.svg">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="injected-svg icon icon-md bg-primary" data-src="/assets/img/icons/theme/devices/airpods.svg">
                             <title>Icon For Airpods</title>
                             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                                 <rect opacity="0" x="0" y="0" width="24" height="24"></rect>
@@ -255,7 +255,7 @@ layout: default
         </div>
     </div>
     <div class="divider flip-x">
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="96px" viewBox="0 0 100 100" version="1.1" preserveAspectRatio="none" class="injected-svg bg-primary-3" data-src="~/assets/img/dividers/divider-1.svg">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="96px" viewBox="0 0 100 100" version="1.1" preserveAspectRatio="none" class="injected-svg bg-primary-3" data-src="/assets/img/dividers/divider-1.svg">
             <path d="M0,0 C40,33 66,52 75,52 C83,52 92,33 100,0 L100,100 L0,100 L0,0 Z"></path>
         </svg>
     </div>
