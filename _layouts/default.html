@@ -2,7 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
     <meta charset="UTF-8">
-
     {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter:400,700&display=swap" as="style" type="text/css" crossorigin>
@@ -17,66 +16,46 @@
         <nav class="navbar navbar-expand-lg navbar-light" data-sticky="top">
             <div class="container">
                 <a class="navbar-brand" href="/">
-                        <img src="/branding/logos/logo.svg" class="companylogo" height="60" alt="Chill Development">
-
-                    </a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
-                        <img class="icon navbar-toggler-open" src="/assets/img/icons/interface/menu.svg" alt="menu interface icon" data-inject-svg />
-                        <img class="icon navbar-toggler-close" src="/assets/img/icons/interface/cross.svg" alt="cross interface icon" data-inject-svg />
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-end">
-                        <div class="py-2 py-lg-0">
-                            <ul class="navbar-nav">
-
-                                <li class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown-grid" aria-expanded="false" aria-haspopup="true">Portfolio</a>
-                                    <div class="dropdown-menu bg-primary-3 text-light border-bottom">
-                                        <div class="container py-4" data-dropdown-content>
-                                            <div class="row">
-                                                <div class="col-lg col-md mb-3 mb-lg-0">
-                                                    <h5>Popular Works</h5>
-
-                                                    <div class="row">
-                                                        <!--@foreach (var portfolio in _context.Portfolio.Include(p => p.Portfolio_Categories).Where(p => p.isEnabled == true).ToList())
-                                                        {-->
-                                                        <!--<div class="col-md-4 mt-2">
-                                                            <a href="/portfolio/@_context.Portfolio_Categories.Where(p => p == portfolio.Portfolio_Categories).FirstOrDefault().Name.Replace(" ", " -").ToLower() /@portfolio.Title">
-                                                                <div class="card card-sm card-body flex-row align-items-center">
-                                                                    <img src="@if (portfolio.Icon_65 == null) { @Html.Raw(" https: //via.placeholder.com/65x65") } else { @Html.Raw("data: image /jpeg;base64, " + @Convert.ToBase64String(portfolio.Icon_65))} " height="65" class="rounded" />
-                                                                    <div class="ml-3">
-                                                                        <h6 class="mb-0 text-primary-3">@portfolio.Title</h6>
-                                                                        <span class="text-info"><small>@portfolio.Subtitle</small></span>
-                                                                    </div>
-                                                                </div>
-                                                            </a>
-                                                        </div>-->
-                                                        <!--}-->
-
-
-
-                                                        <div class="col-md-12 mt-3">
-                                                            <a href="/portfolio/">View our full portfolio <i class="fancybox-button--arrow_right"></i></a>
-
-                                                        </div>
-
+                    <img src="/assets/branding/logos/logo.svg" class="companylogo" height="60" alt="Chill Development">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <img class="icon navbar-toggler-open" src="/assets/img/icons/interface/menu.svg" alt="menu interface icon" data-inject-svg />
+                    <img class="icon navbar-toggler-close" src="/assets/img/icons/interface/cross.svg" alt="cross interface icon" data-inject-svg />
+                </button>
+                <div class="collapse navbar-collapse justify-content-end">
+                    <div class="py-2 py-lg-0">
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown-grid" aria-expanded="false" aria-haspopup="true">Portfolio</a>
+                                <div class="dropdown-menu bg-primary-3 text-light border-bottom">
+                                    <div class="container py-4" data-dropdown-content>
+                                        <div class="row">
+                                            <div class="col-lg col-md mb-3 mb-lg-0">
+                                                <h5>Popular Works</h5>
+                                                <div class="row">
+                                                    <div class="col-md-12 mt-3">
+                                                        <a href="/portfolio/">View our full portfolio <i class="fancybox-button--arrow_right"></i></a>
                                                     </div>
 
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
-                                </li>
+                                </div>
+                            </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/about-us">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/contact-us">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div><a href="/portal/" class="btn btn-primary-3 ml-lg-3">Client Portal</a>
-
+                            <li class="nav-item">
+                                <a class="nav-link" href="/about-us">About Us</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/contact-us">Contact Us</a>
+                            </li>
+                        </ul>
                     </div>
+                    <!--<a href="/portal/" class="btn btn-primary-3 ml-lg-3">Client Portal</a>-->
+
+                </div>
             </div>
         </nav>
     </div>
@@ -204,6 +183,5 @@
         <img class="icon" src="/assets/img/icons/theme/navigation/arrow-up.svg" alt="arrow-up icon" data-inject-svg />
     </a>
     {% include footer-custom.html %}
-
 </body>
 </html>
