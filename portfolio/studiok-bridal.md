@@ -81,7 +81,7 @@ layout: default
                 </div>
             </section>
             <section class="bg-primary-alt">
-            <div class="container">
+            <div class="container"> 
                 <div class="row mb-4">
                     <div class="col">
                         <h3 class="h2">Related Portfolios</h3>
