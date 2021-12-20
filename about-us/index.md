@@ -54,7 +54,7 @@ layout: default
                     <span class="h6">Projects Completed to Date</span>
                 </div>
                 <div class="col-md-12 my-3 col-lg-4 mb-lg-0 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="200">
-                    <span class="display-4 text-primary d-block" data-countup="" data-start="1" data-prefix="£" data-suffix=" +" data-end="1000000" data-duration="3" data-grouping="true">£1,000,000</span>
+                    <span class="display-4 text-primary d-block" data-countup="" data-start="1" data-prefix="Â£" data-suffix=" +" data-end="1000000" data-duration="3" data-grouping="true">Â£1,000,000</span>
                     <span class="h6">Saved to Date</span>
                 </div>
             </div>

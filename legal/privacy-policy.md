@@ -54,20 +54,20 @@ layout: default
                         <div>Version 1.0, Revision 2</div>
                         <hr>
                         <article class="article">
-                            <p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.chilldevelopment.co.uk (the ìSiteî).</p>
+                            <p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.chilldevelopment.co.uk (the ‚ÄúSite‚Äù).</p>
                             <h4>PERSONAL INFORMATION WE COLLECT</h4>
-                            <p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as ìDevice Information.î</p>
+                            <p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as ‚ÄúDevice Information.‚Äù</p>
                             <p>We collect Device Information using the following technologies:</p>
                             <ul>
-                                <li>ìCookiesî are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.</li>
-                                <li>ìLog filesî track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</li>
-                                <li>ìWeb beacons,î ìtags,î and ìpixelsî are electronic files used to record information about how you browse the Site.</li>
+                                <li>‚ÄúCookies‚Äù are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.</li>
+                                <li>‚ÄúLog files‚Äù track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.</li>
+                                <li>‚ÄúWeb beacons,‚Äù ‚Äútags,‚Äù and ‚Äúpixels‚Äù are electronic files used to record information about how you browse the Site.</li>
                             </ul>
                             <p>
-                                Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, email address, and phone number.  We refer to this information as ìOrder Information.î
+                                Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, email address, and phone number.  We refer to this information as ‚ÄúOrder Information.‚Äù
                             </p>
                             <p>
-                                When we talk about ìPersonal Informationî in this Privacy Policy, we are talking both about Device Information and Order Information.
+                                When we talk about ‚ÄúPersonal Information‚Äù in this Privacy Policy, we are talking both about Device Information and Order Information.
                             </p>
                             <h4>HOW DO WE USE YOUR PERSONAL INFORMATION?</h4>
                             <p>We use the Order Information that we collect generally to fulfil any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).</p> <p>Additionally, we use this Order Information to:</p>
@@ -82,7 +82,7 @@ layout: default
                             <p>We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  <a href='https://www.google.com/intl/en/policies/privacy/.'>https://www.google.com/intl/en/policies/privacy/.</a>  You can also opt-out of Google Analytics here:  <a href='https://tools.google.com/dlpage/gaoptout.'>https://tools.google.com/dlpage/gaoptout.</a></p>
                             <p>Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.</p>
                             <h4>BEHAVIOURAL ADVERTISING</h4>
-                            <p>Described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiativeís (ìNAIî) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.</p>
+                            <p>Described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative‚Äôs (‚ÄúNAI‚Äù) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.</p>
                             <p>You can opt out of targeted advertising by visiting:</p>
                             <ul>
                                 <li>FACEBOOK - <a href='https://www.facebook.com/settings/?tab=ads'>https://www.facebook.com/settings/?tab=ads</a></li>
@@ -90,10 +90,10 @@ layout: default
                                 <li>BING - <a href='https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads'>https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads</a></li>
                             </ul>
                             <p>
-                                Additionally, you can opt out of some of these services by visiting the Digital Advertising Allianceís opt-out portal at:  http://optout.aboutads.info/.
+                                Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance‚Äôs opt-out portal at:  http://optout.aboutads.info/.
                             </p>
                             <h4>DO NOT TRACK</h4>
-                            <p>Please note that we do not alter our Siteís data collection and use practices when we see a Do Not Track signal from your browser.</p>
+                            <p>Please note that we do not alter our Site‚Äôs data collection and use practices when we see a Do Not Track signal from your browser.</p>
                             <h4>YOUR RIGHTS</h4>
                             <p>
                                 If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.

@@ -60,8 +60,8 @@ layout: default
                                 <figcaption>You will be required to communicate with the Client directly.</figcaption>
                             </figure>
                             <blockquote class="bg-primary-alt">
-                                <div class="h3 mb-2">ìSince I accepted to join Chill Development on one of their opportunities, I have never looked back. They just keep sending work my way!î</div>
-                                <span class="text-small text-muted">ñ Umran Lowens-Morris (Freelance Software Engineer - Remote Team)</span>
+                                <div class="h3 mb-2">‚ÄúSince I accepted to join Chill Development on one of their opportunities, I have never looked back. They just keep sending work my way!‚Äù</div>
+                                <span class="text-small text-muted">‚Äì Umran Lowens-Morris (Freelance Software Engineer - Remote Team)</span>
                                 <a href="#" class="btn btn-primary btn-sm">
                                     <img class="icon" src="/assets/img/icons/social/twitter.svg" alt="twitter social icon" data-inject-svg />
                                     <span>Tweet</span>
