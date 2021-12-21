@@ -33,7 +33,7 @@ layout: default
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 mb-4 mb-md-0">
+        <div class="col-md-4 mb-4 mb-md-0">
             <dl class="row mt-4">
                 <dt class="col-3 mb-2">Client</dt>
                 <dd class="col-9 mb-2">StudioK</dd>
@@ -48,8 +48,8 @@ layout: default
                 </dd>
                 <dt class="col-12 mb-2"><a href="https://bridal.studiok.uk" style="word-break:break-all" target="_blank">https://bridal.studiok.uk</a></dt>
             </dl>
-            </div>
-            <div class="col">
+        </div>
+        <div class="col">
                 <div class="row justify-content-center">
                     <div class="col-lg-11">
                         <div class="mb-4">
@@ -59,27 +59,25 @@ layout: default
                             StudioK, keen to branch out into Bridal hair, asked for our 'Full-Stack' service of creating the Logo, Website, SEO and Branding to help promote their business.
                         </p>
                         <h5 class="mt-5">Services Provided:</h5>
-                                        <ul class="mb-5">
-                                            <li>Wordpress Website
-                                                <ul>
-                                                    <li>Website Development</li>
-                                                </ul>
-                                            </li>
-                                            <li>Branding
-                                                <ul>
-                                                    <li>Logo</li>
-                                                    <li>Marketing Stands</li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    <p>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                            <ul class="mb-5">
+                                <li>Wordpress Website
+                                    <ul>
+                                        <li>Website Development</li>
+                                    </ul>
+                                </li>
+                                <li>Branding
+                                    <ul>
+                                        <li>Logo</li>
+                                        <li>Marketing Stands</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        <p></p>
                     </div>
                 </div>
-            </section>
+        </div>
+    </div>
+</section>
             <section class="bg-primary-alt">
             <div class="container"> 
                 <div class="row mb-4">

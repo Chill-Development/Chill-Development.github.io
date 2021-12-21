@@ -55,65 +55,66 @@ layout: default
                         <div class="mb-4">
                             <h3>The IT Management System is a Web Application that automates your IT Workflow, storing all manner of IT data.</h3>
                         </div>
-                        <p>
-                            </p><h4><strong>Asset Management</strong>
-<br>
-<span class="text-muted">Record detailed information of your Assets.</span>
-</h4>
-<p>Record Hardware, Software &amp; Historical User Information, then show all of the information in one place within a modal. ITM keeps detailed information in an easy to use front-end inspired by the Bootstrap Framework.</p>
-<hr>
-<h4><strong>IP Register</strong>
-<br>
-<span class="text-muted">Record and display IP Addresses of all of your Assets.</span>
-</h4>
-<p>ITM allows you to find IP Address information on all submitted Assets, grouped by Domain. Allowing fast identification.</p>
-<hr>
-<h4><strong>Data Control</strong>
-<br>
-<span class="text-muted">Record your Data Backups and Transfers.</span>
-</h4>
-<p>Record, View and Create a Report on Backups from all of your On-Site and Off-Site Servers from a single page. A user can specify a particular day or automatically select from the previous working day. Change information from the main page without cycling through multiple windows.</p>
-<hr>
-<h4><strong>Topology</strong>
-<br>
-<span class="text-muted">Diagrams in accordance with ISO27001.</span>
-</h4>
-<p>In line with ISO27001, ITM can build a infrastructure Topology diagram based on submitted assets. The diagram is then made available for querying and downloading.</p>
-<hr>
-<h4><strong>Manage your Expenditure</strong>
-<br>
-<span class="text-muted">Integrating Purchase Order &amp; Capital Expenditure Management - ITM allows users to submit, view or print purchasing documentation. Users can Add, Edit or Delete Supplier, Delivery &amp; Billing Information.</span>
-</h4>
-<p>Record, View and Create a Report on Backups from all of your On-Site and Off-Site Servers from a single page. A user can specify a particular day or automatically select from the previous working day. Change information from the main page without cycling through multiple windows.</p>
                         <p></p>
+                        <h4>
+                            <strong>Asset Management</strong>
+                            <br>
+                            <span class="text-muted">Record detailed information of your Assets.</span>
+                        </h4>
+                            <p>Record Hardware, Software &amp; Historical User Information, then show all of the information in one place within a modal. ITM keeps detailed information in an easy to use front-end inspired by the Bootstrap Framework.</p>
+                        <hr>
+                        <h4><strong>IP Register</strong>
+                            <br>
+                            <span class="text-muted">Record and display IP Addresses of all of your Assets.</span>
+                        </h4>
+                            <p>ITM allows you to find IP Address information on all submitted Assets, grouped by Domain. Allowing fast identification.</p>
+                        <hr>
+                        <h4><strong>Data Control</strong>
+                            <br>
+                            <span class="text-muted">Record your Data Backups and Transfers.</span>
+                        </h4>
+                            <p>Record, View and Create a Report on Backups from all of your On-Site and Off-Site Servers from a single page. A user can specify a particular day or automatically select from the previous working day. Change information from the main page without cycling through multiple windows.</p>
+                        <hr>
+                        <h4><strong>Topology</strong>
+                            <br>
+                            <span class="text-muted">Diagrams in accordance with ISO27001.</span>
+                        </h4>
+                            <p>In line with ISO27001, ITM can build a infrastructure Topology diagram based on submitted assets. The diagram is then made available for querying and downloading.</p>
+                        <hr>
+                        <h4><strong>Manage your Expenditure</strong>
+                            <br>
+                            <span class="text-muted">Integrating Purchase Order &amp; Capital Expenditure Management - ITM allows users to submit, view or print purchasing documentation. Users can Add, Edit or Delete Supplier, Delivery &amp; Billing Information.</span>
+                        </h4>
+                            <p>Record, View and Create a Report on Backups from all of your On-Site and Off-Site Servers from a single page. A user can specify a particular day or automatically select from the previous working day. Change information from the main page without cycling through multiple windows.</p>
+                            <p></p>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pt-0">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div data-flickity='{ "imagesLoaded": true, "wrapAround": true }' class="mb-5">
+                    <div class="carousel-cell">
+                        <img src="/assets/portfolio/itm/slide1.jpg" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img src="/assets/portfolio/itm/slide2.jpg" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img src="/assets/portfolio/itm/slide3.jpg" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img src="/assets/portfolio/itm/slide4.jpg" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-    <section class="pt-0">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <div data-flickity='{ "imagesLoaded": true, "wrapAround": true }' class="mb-5">
-                        <div class="carousel-cell">
-                            <img src="/assets/portfolio/itm/slide1.jpg" />
-                        </div>
-                        <div class="carousel-cell">
-                            <img src="/assets/portfolio/itm/slide2.jpg" />
-                        </div>
-                        <div class="carousel-cell">
-                            <img src="/assets/portfolio/itm/slide3.jpg" />
-                        </div>
-                        <div class="carousel-cell">
-                            <img src="/assets/portfolio/itm/slide4.jpg" />
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
 <section class="bg-primary-alt">
             <div class="container">
