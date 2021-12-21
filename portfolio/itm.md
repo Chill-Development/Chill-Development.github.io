@@ -124,21 +124,21 @@ layout: default
                 </div>
                 <div class="row">
                     <div class="col-sm-6 col-lg-4 mb-4">
-                        <a href="/portfolio/">
+                        <a href="/portfolio/eschecker">
                             <img src="/assets/portfolio/eschecker/description.jpg" class="rounded mb-3">
                             <h4 class="mb-1">ESChecker</h4>
                             <div class="text-small text-muted">IR35 Determination System</div>
                         </a>
                     </div>
                     <div class="col-sm-6 col-lg-4 mb-4">
-                        <a href="/portfolio/">
+                        <a href="/portfolio/maes-mobile">
                             <img src="/assets/portfolio/maes-mobile/description.jpg" class="rounded mb-3">
                             <h4 class="mb-1">MAES Mobile</h4>
                             <div class="text-small text-muted">Aircraft Maintenance Work Order System</div>
                         </a>
                     </div>
                     <div class="col-sm-6 col-lg-4 mb-4">
-                        <a href="/portfolio/">
+                        <a href="/portfolio/the-style-loft">
                             <img src="/assets/portfolio/style-loft/description.jpg" class="rounded mb-3">
                             <h4 class="mb-1">The Style Loft</h4>
                             <div class="text-small text-muted">Website & Branding</div>
