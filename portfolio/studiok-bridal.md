@@ -50,31 +50,31 @@ layout: default
             </dl>
         </div>
         <div class="col">
-                <div class="row justify-content-center">
-                    <div class="col-lg-11">
-                        <div class="mb-4">
+            <div class="row justify-content-center">
+                <div class="col-lg-11">
+                    <div class="mb-4">
                             <h3>StudioK Bridal is a Bridal Hairdressers based in Worsley, Manchester.</h3>
-                        </div>
-                        <p>
-                            StudioK, keen to branch out into Bridal hair, asked for our 'Full-Stack' service of creating the Logo, Website, SEO and Branding to help promote their business.
-                        </p>
-                        <h5 class="mt-5">Services Provided:</h5>
-                            <ul class="mb-5">
-                                <li>Wordpress Website
-                                    <ul>
-                                        <li>Website Development</li>
-                                    </ul>
-                                </li>
-                                <li>Branding
-                                    <ul>
-                                        <li>Logo</li>
-                                        <li>Marketing Stands</li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        <p></p>
                     </div>
+                    <p>
+                        StudioK, keen to branch out into Bridal hair, asked for our 'Full-Stack' service of creating the Logo, Website, SEO and Branding to help promote their business.
+                    </p>
+                    <h5 class="mt-5">Services Provided:</h5>
+                    <ul class="mb-5">
+                        <li>Wordpress Website
+                            <ul>
+                                <li>Website Development</li>
+                            </ul>
+                            <li>Branding
+                                <ul>
+                                    <li>Logo</li>
+                                    <li>Marketing Stands</li>
+                                </ul>
+                            </li>
+                        </li>
+                    </ul>
+                    <p></p>
                 </div>
+            </div>
         </div>
     </div>
 </section>
