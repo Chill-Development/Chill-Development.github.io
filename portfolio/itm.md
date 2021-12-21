@@ -93,28 +93,6 @@ layout: default
         </div>
     </div>
 </section>
-<section class="pt-0">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <div data-flickity="{ 'imagesLoaded': true, 'wrapAround': true }" class="mb-5">
-                    <div class="carousel-cell">
-                        <img src="/assets/portfolio/itm/slide1.jpg" />
-                    </div>
-                    <div class="carousel-cell">
-                        <img src="/assets/portfolio/itm/slide2.jpg" />
-                    </div>
-                    <div class="carousel-cell">
-                        <img src="/assets/portfolio/itm/slide3.jpg" />
-                    </div>
-                    <div class="carousel-cell">
-                        <img src="/assets/portfolio/itm/slide4.jpg" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 <section class="bg-primary-alt">
             <div class="container">
                 <div class="row mb-4">
