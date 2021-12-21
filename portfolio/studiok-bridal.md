@@ -78,35 +78,35 @@ layout: default
         </div>
     </div>
 </section>
-            <section class="bg-primary-alt">
-            <div class="container"> 
-                <div class="row mb-4">
-                    <div class="col">
-                        <h3 class="h2">Related Portfolios</h3>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6 col-lg-4 mb-4">
-                        <a href="/portfolio/style-loft">
-                            <img src="/assets/portfolio/style-loft/description.jpg" class="rounded mb-3">
-                            <h4 class="mb-1">The Style Loft</h4>
-                            <div class="text-small text-muted">Website & Branding</div>
-                        </a>
-                    </div>
-                    <div class="col-sm-6 col-lg-4 mb-4">
-                        <a href="/portfolio/butterflies-and-fairytales">
-                            <img src="/assets/portfolio/butterflies-and-fairytales/description.jpg" class="rounded mb-3">
-                            <h4 class="mb-1">Butterflies & Fairytales</h4>
-                            <div class="text-small text-muted">Website & Branding</div>
-                        </a>
-                    </div>
-                    <div class="col-sm-6 col-lg-4 mb-4">
-                        <a href="/portfolio/simply-skin">
-                            <img src="/assets/portfolio/simply-skin/description.jpg" class="rounded mb-3">
-                            <h4 class="mb-1">SimplySkin</h4>
-                            <div class="text-small text-muted">Branding</div>
-                        </a>
-                    </div>
-                </div>
+<section class="bg-primary-alt">
+    <div class="container"> 
+        <div class="row mb-4">
+            <div class="col">
+                <h3 class="h2">Related Portfolios</h3>
             </div>
-        </section>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-lg-4 mb-4">
+                <a href="/portfolio/style-loft">
+                    <img src="/assets/portfolio/style-loft/description.jpg" class="rounded mb-3">
+                    <h4 class="mb-1">The Style Loft</h4>
+                    <div class="text-small text-muted">Website & Branding</div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-lg-4 mb-4">
+                <a href="/portfolio/butterflies-and-fairytales">
+                    <img src="/assets/portfolio/butterflies-and-fairytales/description.jpg" class="rounded mb-3">
+                    <h4 class="mb-1">Butterflies & Fairytales</h4>
+                    <div class="text-small text-muted">Website & Branding</div>
+                </a>
+            </div>
+            <div class="col-sm-6 col-lg-4 mb-4">
+                <a href="/portfolio/simply-skin">
+                    <img src="/assets/portfolio/simply-skin/description.jpg" class="rounded mb-3">
+                    <h4 class="mb-1">SimplySkin</h4>
+                    <div class="text-small text-muted">Branding</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
